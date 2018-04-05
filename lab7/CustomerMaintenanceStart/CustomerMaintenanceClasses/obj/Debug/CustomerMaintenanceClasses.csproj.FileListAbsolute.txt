@@ -1,0 +1,5 @@
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\CustomerMaintenanceStart\CustomerMaintenanceClasses\bin\Debug\CustomerMaintenanceClasses.dll
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\CustomerMaintenanceStart\CustomerMaintenanceClasses\bin\Debug\CustomerMaintenanceClasses.pdb
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\CustomerMaintenanceStart\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.dll
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\CustomerMaintenanceStart\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.pdb
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\CustomerMaintenanceStart\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.csprojResolveAssemblyReference.cache

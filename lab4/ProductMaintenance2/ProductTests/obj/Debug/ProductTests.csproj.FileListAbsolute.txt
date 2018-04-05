@@ -1,0 +1,16 @@
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\ProductMaintenance2\ProductTests\bin\Debug\ProductTests.exe.config
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\ProductMaintenance2\ProductTests\bin\Debug\ProductTests.exe
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\ProductMaintenance2\ProductTests\bin\Debug\ProductTests.pdb
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\ProductMaintenance2\ProductTests\bin\Debug\ProductMaintenanceClasses.dll
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\ProductMaintenance2\ProductTests\bin\Debug\ProductMaintenanceClasses.pdb
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\ProductMaintenance2\ProductTests\obj\Debug\ProductTests.csprojResolveAssemblyReference.cache
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\ProductMaintenance2\ProductTests\obj\Debug\ProductTests.exe
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\ProductMaintenance2\ProductTests\obj\Debug\ProductTests.pdb
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab4\ProductMaintenance2\ProductTests\bin\Debug\ProductTests.exe.config
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab4\ProductMaintenance2\ProductTests\obj\Debug\ProductTests.exe
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab4\ProductMaintenance2\ProductTests\obj\Debug\ProductTests.pdb
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab4\ProductMaintenance2\ProductTests\bin\Debug\ProductTests.exe
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab4\ProductMaintenance2\ProductTests\bin\Debug\ProductTests.pdb
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab4\ProductMaintenance2\ProductTests\bin\Debug\ProductMaintenanceClasses.dll
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab4\ProductMaintenance2\ProductTests\bin\Debug\ProductMaintenanceClasses.pdb
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab4\ProductMaintenance2\ProductTests\obj\Debug\ProductTests.csprojResolveAssemblyReference.cache

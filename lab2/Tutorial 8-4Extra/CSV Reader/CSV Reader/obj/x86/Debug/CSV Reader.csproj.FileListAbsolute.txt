@@ -1,0 +1,10 @@
+C:\Users\Manda\Desktop\CS233N\lab2Strings\Tutorial 8-4\CSV Reader\CSV Reader\bin\Debug\CSV Reader.exe
+C:\Users\Manda\Desktop\CS233N\lab2Strings\Tutorial 8-4\CSV Reader\CSV Reader\bin\Debug\CSV Reader.pdb
+C:\Users\Manda\Desktop\CS233N\lab2Strings\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.csprojResolveAssemblyReference.cache
+C:\Users\Manda\Desktop\CS233N\lab2Strings\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV_Reader.Form1.resources
+C:\Users\Manda\Desktop\CS233N\lab2Strings\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV_Reader.Properties.Resources.resources
+C:\Users\Manda\Desktop\CS233N\lab2Strings\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.csproj.GenerateResource.Cache
+C:\Users\Manda\Desktop\CS233N\lab2Strings\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.exe
+C:\Users\Manda\Desktop\CS233N\lab2Strings\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.pdb
+C:\Users\C#User\Desktop\CS233N\lab2Strings\Tutorial 8-4Extra\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.exe
+C:\Users\C#User\Desktop\CS233N\lab2Strings\Tutorial 8-4Extra\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.pdb

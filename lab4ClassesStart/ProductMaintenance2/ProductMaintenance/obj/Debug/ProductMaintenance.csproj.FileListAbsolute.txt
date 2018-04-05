@@ -1,0 +1,12 @@
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\ProductMaintenance2\ProductMaintenance\bin\Debug\ProductMaintenance.exe.config
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\ProductMaintenance2\ProductMaintenance\bin\Debug\ProductMaintenance.exe
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\ProductMaintenance2\ProductMaintenance\bin\Debug\ProductMaintenance.pdb
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\ProductMaintenance2\ProductMaintenance\bin\Debug\ProductMaintenanceClasses.dll
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\ProductMaintenance2\ProductMaintenance\bin\Debug\ProductMaintenanceClasses.pdb
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\ProductMaintenance2\ProductMaintenance\obj\Debug\ProductMaintenance.csprojResolveAssemblyReference.cache
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\ProductMaintenance2\ProductMaintenance\obj\Debug\ProductMaintenance.frmNewProduct.resources
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\ProductMaintenance2\ProductMaintenance\obj\Debug\ProductMaintenance.frmProductMain.resources
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\ProductMaintenance2\ProductMaintenance\obj\Debug\ProductMaintenance.Properties.Resources.resources
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\ProductMaintenance2\ProductMaintenance\obj\Debug\ProductMaintenance.csproj.GenerateResource.Cache
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\ProductMaintenance2\ProductMaintenance\obj\Debug\ProductMaintenance.exe
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\ProductMaintenance2\ProductMaintenance\obj\Debug\ProductMaintenance.pdb

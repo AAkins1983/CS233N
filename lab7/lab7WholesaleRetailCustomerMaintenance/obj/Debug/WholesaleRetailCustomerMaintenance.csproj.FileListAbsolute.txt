@@ -1,0 +1,2 @@
+C:\Users\C#User\Desktop\CS233N\lab7\lab7WholesaleRetailCustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab7\lab7WholesaleRetailCustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config

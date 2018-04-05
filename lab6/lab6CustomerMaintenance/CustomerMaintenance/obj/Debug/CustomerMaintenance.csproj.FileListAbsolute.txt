@@ -1,0 +1,33 @@
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab5\lab5CustomerMaintenanceStartVersion 2\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojResolveAssemblyReference.cache
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab5\lab5CustomerMaintenanceStartVersion 2\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab5\lab5CustomerMaintenanceStartVersion 2\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab5\lab5CustomerMaintenanceStartVersion 2\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab5\lab5CustomerMaintenanceStartVersion 2\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab5\lab5CustomerMaintenanceStartVersion 2\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab5\lab5CustomerMaintenanceStartVersion 2\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab5\lab5CustomerMaintenanceStartVersion 2\CustomerMaintenance\bin\Debug\CustomerMaintenanceClasses.dll
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab5\lab5CustomerMaintenanceStartVersion 2\CustomerMaintenance\bin\Debug\CustomerMaintenanceClasses.pdb
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab5\lab5CustomerMaintenanceStartVersion 2\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab5\lab5CustomerMaintenanceStartVersion 2\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab6\lab6CustomerMaintenanceStartVersion3\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab6\lab6CustomerMaintenanceStartVersion3\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab6\lab6CustomerMaintenanceStartVersion3\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab6\lab6CustomerMaintenanceStartVersion3\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab6\lab6CustomerMaintenanceStartVersion3\CustomerMaintenance\bin\Debug\CustomerMaintenanceClasses.dll
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab6\lab6CustomerMaintenanceStartVersion3\CustomerMaintenance\bin\Debug\CustomerMaintenanceClasses.pdb
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab6\lab6CustomerMaintenanceStartVersion3\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojResolveAssemblyReference.cache
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab6\lab6CustomerMaintenanceStartVersion3\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab6\lab6CustomerMaintenanceStartVersion3\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab6\lab6CustomerMaintenanceStartVersion3\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab6\lab6CustomerMaintenanceStartVersion3\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab6\lab6CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab6\lab6CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab6\lab6CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab6\lab6CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab6\lab6CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenanceClasses.dll
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab6\lab6CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenanceClasses.pdb
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab6\lab6CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojResolveAssemblyReference.cache
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab6\lab6CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab6\lab6CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab6\lab6CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab6\lab6CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache

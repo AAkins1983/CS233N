@@ -1,0 +1,28 @@
+C:\Users\C#User\Desktop\CS233N\lab2Strings\StringStuff\StringStuff\bin\Debug\String Stuff.exe
+C:\Users\C#User\Desktop\CS233N\lab2Strings\StringStuff\StringStuff\bin\Debug\String Stuff.pdb
+C:\Users\C#User\Desktop\CS233N\lab2Strings\StringStuff\StringStuff\obj\x86\Debug\String_Stuff.stringForm.resources
+C:\Users\C#User\Desktop\CS233N\lab2Strings\StringStuff\StringStuff\obj\x86\Debug\String Stuff.Properties.Resources.resources
+C:\Users\C#User\Desktop\CS233N\lab2Strings\StringStuff\StringStuff\obj\x86\Debug\String Stuff.csproj.GenerateResource.Cache
+C:\Users\C#User\Desktop\CS233N\lab2Strings\StringStuff\StringStuff\obj\x86\Debug\String Stuff.exe
+C:\Users\C#User\Desktop\CS233N\lab2Strings\StringStuff\StringStuff\obj\x86\Debug\String Stuff.pdb
+C:\Users\C#User\Desktop\CS233N\lab2Strings\StringStuff\StringStuff\obj\x86\Debug\String Stuff.csprojResolveAssemblyReference.cache
+C:\Users\Manda\Desktop\CS233N\lab2Strings\StringStuff\StringStuff\obj\x86\Debug\String Stuff.exe
+C:\Users\Manda\Desktop\CS233N\lab2Strings\StringStuff\StringStuff\obj\x86\Debug\String Stuff.pdb
+C:\Users\Manda\Desktop\CS233N\lab2Strings\StringStuffExtraCredit\StringStuff\obj\x86\Debug\String Stuff.exe
+C:\Users\Manda\Desktop\CS233N\lab2Strings\StringStuffExtraCredit\StringStuff\obj\x86\Debug\String Stuff.pdb
+C:\Users\Manda\Desktop\CS233N\lab2Strings\StringStuffExtraCredit\StringStuff\bin\Debug\String Stuff.exe
+C:\Users\Manda\Desktop\CS233N\lab2Strings\StringStuffExtraCredit\StringStuff\bin\Debug\String Stuff.pdb
+C:\Users\Manda\Desktop\CS233N\lab2Strings\StringStuffExtraCredit\StringStuff\obj\x86\Debug\String Stuff.csprojResolveAssemblyReference.cache
+C:\Users\Manda\Desktop\CS233N\lab2Strings\StringStuffExtraCredit\StringStuff\obj\x86\Debug\String_Stuff.stringForm.resources
+C:\Users\Manda\Desktop\CS233N\lab2Strings\StringStuffExtraCredit\StringStuff\obj\x86\Debug\String Stuff.Properties.Resources.resources
+C:\Users\Manda\Desktop\CS233N\lab2Strings\StringStuffExtraCredit\StringStuff\obj\x86\Debug\String Stuff.csproj.GenerateResource.Cache
+C:\Users\C#User\Desktop\CS233N\lab2Strings\StringStuffExtraCredit\StringStuff\obj\x86\Debug\String Stuff.exe
+C:\Users\C#User\Desktop\CS233N\lab2Strings\StringStuffExtraCredit\StringStuff\obj\x86\Debug\String Stuff.pdb
+C:\Users\C#User\Desktop\CS233N\lab2Strings\StringStuffExtraCredit\StringStuff\bin\Debug\String Stuff.exe
+C:\Users\C#User\Desktop\CS233N\lab2Strings\StringStuffExtraCredit\StringStuff\bin\Debug\String Stuff.pdb
+C:\Users\C#User\Desktop\CS233N\lab2Strings\StringStuffExtraCredit\StringStuff\obj\x86\Debug\String Stuff.csprojResolveAssemblyReference.cache
+C:\Users\C#User\Desktop\CS233N\lab2Strings\StringStuffExtraCredit\StringStuff\obj\x86\Debug\String_Stuff.stringForm.resources
+C:\Users\C#User\Desktop\CS233N\lab2Strings\StringStuffExtraCredit\StringStuff\obj\x86\Debug\String Stuff.Properties.Resources.resources
+C:\Users\C#User\Desktop\CS233N\lab2Strings\StringStuffExtraCredit\StringStuff\obj\x86\Debug\String Stuff.csproj.GenerateResource.Cache
+C:\Users\AAkin\Desktop\CS233N\lab2Strings\StringStuffExtraCredit\StringStuff\obj\x86\Debug\String Stuff.exe
+C:\Users\AAkin\Desktop\CS233N\lab2Strings\StringStuffExtraCredit\StringStuff\obj\x86\Debug\String Stuff.pdb

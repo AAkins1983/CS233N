@@ -1,0 +1,10 @@
+C:\Users\Manda\Desktop\CS233N\lab1Arrays\Tutorial 7-3\Seating Chart\Seating Chart\bin\Debug\Seating Chart.exe
+C:\Users\Manda\Desktop\CS233N\lab1Arrays\Tutorial 7-3\Seating Chart\Seating Chart\bin\Debug\Seating Chart.pdb
+C:\Users\Manda\Desktop\CS233N\lab1Arrays\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.csprojResolveAssemblyReference.cache
+C:\Users\Manda\Desktop\CS233N\lab1Arrays\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\Seating_Chart.Form1.resources
+C:\Users\Manda\Desktop\CS233N\lab1Arrays\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\Seating_Chart.Properties.Resources.resources
+C:\Users\Manda\Desktop\CS233N\lab1Arrays\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.csproj.GenerateResource.Cache
+C:\Users\Manda\Desktop\CS233N\lab1Arrays\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.exe
+C:\Users\Manda\Desktop\CS233N\lab1Arrays\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.pdb
+C:\Users\C#User\Desktop\CS233N\lab1Arrays\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.exe
+C:\Users\C#User\Desktop\CS233N\lab1Arrays\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.pdb

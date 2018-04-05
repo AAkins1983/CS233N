@@ -1,0 +1,5 @@
+C:\Users\C#User\Desktop\CS233N\lab5ConcentrationVersion2\CardClassLibrary\bin\Debug\CardClassLibrary.dll
+C:\Users\C#User\Desktop\CS233N\lab5ConcentrationVersion2\CardClassLibrary\bin\Debug\CardClassLibrary.pdb
+C:\Users\C#User\Desktop\CS233N\lab5ConcentrationVersion2\CardClassLibrary\obj\Debug\CardClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\C#User\Desktop\CS233N\lab5ConcentrationVersion2\CardClassLibrary\obj\Debug\CardClassLibrary.dll
+C:\Users\C#User\Desktop\CS233N\lab5ConcentrationVersion2\CardClassLibrary\obj\Debug\CardClassLibrary.pdb

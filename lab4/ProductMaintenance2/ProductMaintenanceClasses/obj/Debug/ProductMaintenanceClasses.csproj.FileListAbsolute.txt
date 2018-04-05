@@ -1,0 +1,10 @@
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\ProductMaintenance2\ProductMaintenanceClasses\bin\Debug\ProductMaintenanceClasses.dll
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\ProductMaintenance2\ProductMaintenanceClasses\bin\Debug\ProductMaintenanceClasses.pdb
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\ProductMaintenance2\ProductMaintenanceClasses\obj\Debug\ProductMaintenanceClasses.csprojResolveAssemblyReference.cache
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\ProductMaintenance2\ProductMaintenanceClasses\obj\Debug\ProductMaintenanceClasses.dll
+C:\Users\C#User\Desktop\CS233N\lab4ClassesStart\ProductMaintenance2\ProductMaintenanceClasses\obj\Debug\ProductMaintenanceClasses.pdb
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab4\ProductMaintenance2\ProductMaintenanceClasses\bin\Debug\ProductMaintenanceClasses.dll
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab4\ProductMaintenance2\ProductMaintenanceClasses\bin\Debug\ProductMaintenanceClasses.pdb
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab4\ProductMaintenance2\ProductMaintenanceClasses\obj\Debug\ProductMaintenanceClasses.csprojResolveAssemblyReference.cache
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab4\ProductMaintenance2\ProductMaintenanceClasses\obj\Debug\ProductMaintenanceClasses.dll
+C:\Users\AAkin_000\Desktop\schoolShit\CS233N\lab4\ProductMaintenance2\ProductMaintenanceClasses\obj\Debug\ProductMaintenanceClasses.pdb

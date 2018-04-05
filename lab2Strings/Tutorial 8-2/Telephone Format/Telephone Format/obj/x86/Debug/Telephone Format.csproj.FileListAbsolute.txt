@@ -1,0 +1,10 @@
+C:\Users\C#User\Desktop\CS233N\lab2Strings\Tutorial 8-2\Telephone Format\Telephone Format\bin\Debug\Telephone Format.exe
+C:\Users\C#User\Desktop\CS233N\lab2Strings\Tutorial 8-2\Telephone Format\Telephone Format\bin\Debug\Telephone Format.pdb
+C:\Users\C#User\Desktop\CS233N\lab2Strings\Tutorial 8-2\Telephone Format\Telephone Format\obj\x86\Debug\Telephone Format.csprojResolveAssemblyReference.cache
+C:\Users\C#User\Desktop\CS233N\lab2Strings\Tutorial 8-2\Telephone Format\Telephone Format\obj\x86\Debug\Telephone_Format.Form1.resources
+C:\Users\C#User\Desktop\CS233N\lab2Strings\Tutorial 8-2\Telephone Format\Telephone Format\obj\x86\Debug\Telephone_Format.Properties.Resources.resources
+C:\Users\C#User\Desktop\CS233N\lab2Strings\Tutorial 8-2\Telephone Format\Telephone Format\obj\x86\Debug\Telephone Format.csproj.GenerateResource.Cache
+C:\Users\C#User\Desktop\CS233N\lab2Strings\Tutorial 8-2\Telephone Format\Telephone Format\obj\x86\Debug\Telephone Format.exe
+C:\Users\C#User\Desktop\CS233N\lab2Strings\Tutorial 8-2\Telephone Format\Telephone Format\obj\x86\Debug\Telephone Format.pdb
+C:\Users\Manda\Desktop\CS233N\lab2Strings\Tutorial 8-2\Telephone Format\Telephone Format\obj\x86\Debug\Telephone Format.exe
+C:\Users\Manda\Desktop\CS233N\lab2Strings\Tutorial 8-2\Telephone Format\Telephone Format\obj\x86\Debug\Telephone Format.pdb
